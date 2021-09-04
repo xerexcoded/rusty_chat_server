@@ -4,11 +4,11 @@
 Just using Rust 🦀 , nothing special 🦞 
 
 
-![Screenshot][s1.png]
+![Alt text][s1.png]
 
-![Screenshot][s2.png]
+![Alt text][s2.png]
 
-![Screenshot][s3.png]
+![Alt text][s3.png]
 
 
 
