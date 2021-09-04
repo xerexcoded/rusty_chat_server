@@ -1,7 +1,7 @@
 # TOKIO CHAT SERVER
 ## Implementing tcp chat server 
 
-just using rust , nothing special 
+Just using Rust 🦀 , nothing special 🦞 
 
 
 
